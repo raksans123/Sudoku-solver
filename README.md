@@ -1,2 +1,2 @@
-# Sudoku-solver
+# `Sudoku-solver`
 Sudoku solver using python
